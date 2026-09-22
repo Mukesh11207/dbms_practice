@@ -1,0 +1,33 @@
+# MySQL / Database files
+*.sql~
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.dump
+
+# Log files
+*.log
+error_log
+mysql-error.log
+
+# Environment / config files with credentials
+.env
+config.php
+db_config.php
+*.cnf
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+temp/
