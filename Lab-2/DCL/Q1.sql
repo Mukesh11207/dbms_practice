@@ -1,0 +1,1 @@
+create user 'user_b'@'localhost' identified by '2007';
