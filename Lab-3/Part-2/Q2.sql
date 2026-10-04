@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT DEPTNO) AS total_dept_with_employees
+FROM EMPLOYEE;
