@@ -1,0 +1,5 @@
+SELECT SUM(SALARY) AS total_payroll
+FROM EMPLOYEE;
+
+SELECT SUM(BUDGET) AS total_budget
+FROM PROJECT;
